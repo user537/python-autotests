@@ -1,0 +1,2 @@
+File naming nomenclature - File name should be test_*.py or *_test.py
+Test Method nomenclature - Test method should be of the format test*
