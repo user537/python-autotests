@@ -1,2 +1,23 @@
 File naming nomenclature - File name should be test_*.py or *_test.py
 Test Method nomenclature - Test method should be of the format test*
+
+rebase + squash can be used if have some unuseful commits
+
+indexes end slices
+
+s = "abcde"
+
+print(s[0])
+print(s[0:3])
+print(s[0:-1])
+
+revers:
+z = "apulaz"
+print(z[::-1])
+
+lists:
+
+l = ["string", 123, 1.2, ["another", 321]]
+
+lists functions:
+ 
